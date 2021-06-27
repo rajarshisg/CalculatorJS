@@ -5,6 +5,9 @@ This is a simple calculator built using HTML, CSS and JavaScript. There are four
 3. calculator_script.js - The JS file which consists of the JavaScript code for the calculator.
 4. calculator Javascript.rar - The zip file which contains the whole project. You can download this file and run the project directly on your PC.
 
+Link to use the calculator :
+https://rajarshisg.github.io/CalculatorJS/
+
 Screenshot of the calculator : 
 
 <img src="https://raw.githubusercontent.com/rajarshisg/Calculator-JavaScript/master/Calculator%20JavaScript/Screenshots/Capture.PNG" width="500px" height="600px">
